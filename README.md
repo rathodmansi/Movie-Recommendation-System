@@ -18,7 +18,7 @@ The deployed dashboard can be found in: [https://bingewatch-recommender.herokuap
   
 The project can also be run locally:  
 ```
-git clone https://github.com/flormarcaccio/bingewatch.git
+git clone https://github.com/rathodmansi/Movie-Recommendation-System.git
 cd bingewatch
 conda env create -f environment.yml
 conda activate mrs
@@ -57,16 +57,16 @@ Option 2:
 - `app.py` produces the visualization tool which shows the top movie recommendations based on user input. The first tab displays the choice-based recommendation, while the second tab shows the filter-based recommendation. Note that `choice_based_recommendation.py` and `filter_based_recommendation.py` are imported by the main app script to create the layout for the two tabs.
 
 ## Examples
-We provide [examples](https://github.com/flormarcaccio/bingewatch/blob/master/examples/README.md) that show how to interact with the recommendation tool.
+We provide [examples](https://github.com/rathodmansi/Movie-Recommendation-System/blob/master/examples/README.md) that show how to interact with the recommendation tool.
 
 ## License
 This work is available under an MIT license, included [in the repository](https://github.com/flormarcaccio/bingewatch/blob/master/LICENSE).
 
 ## Code of Conduct
-Please see the included [code of conduct](https://github.com/flormarcaccio/bingewatch/blob/master/CODE_OF_CONDUCT.md) for the guidelines governing this project.
+Please see the included [code of conduct](https://github.com/rathodmansi/Movie-Recommendation-System/blob/master/CODE_OF_CONDUCT.md) for the guidelines governing this project.
 
 ## Software used
 Python version 3.7  
 Dash version 1.12.0
 
-See [requirements.txt](https://github.com/flormarcaccio/bingewatch/blob/master/requirements.txt) for more details.
+See [requirements.txt](https://github.com/rathodmansi/Movie-Recommendation-System/master/requirements.txt) for more details.
