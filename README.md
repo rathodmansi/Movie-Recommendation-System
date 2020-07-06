@@ -60,7 +60,7 @@ Option 2:
 We provide [examples](https://github.com/rathodmansi/Movie-Recommendation-System/blob/master/examples/README.md) that show how to interact with the recommendation tool.
 
 ## License
-This work is available under an MIT license, included [in the repository](https://github.com/flormarcaccio/bingewatch/blob/master/LICENSE).
+This work is available under an MIT license, included [in the repository](https://github.com/rathodmansi/Movie-Recommendation-System/blob/master/LICENSE).
 
 ## Code of Conduct
 Please see the included [code of conduct](https://github.com/rathodmansi/Movie-Recommendation-System/blob/master/CODE_OF_CONDUCT.md) for the guidelines governing this project.
